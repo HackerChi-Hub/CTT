@@ -1,0 +1,16 @@
+# 日志文件
+*.log
+
+# 配置文件（包含用户数据）
+config.json
+baseline_space.json
+
+# 备份目录
+backup_*/
+
+# Windows 特定文件
+Thumbs.db
+Desktop.ini
+
+# PowerShell 临时文件
+*.tmp
