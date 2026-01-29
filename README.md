@@ -56,7 +56,7 @@
 
 ```powershell
 # 克隆仓库或直接下载 main.ps1 文件
-git clone <your-repo-url>
+git clone https://github.com/HackerChi-Hub/CTT.git
 cd CTT
 ```
 
@@ -217,7 +217,7 @@ Get-AppxPackage -AllUsers | Select-Object Name, PackageFullName | Format-Table
 
 如有问题或建议，请通过以下方式联系：
 - 网站：hackerchi.top
-- GitHub Issues：提交问题反馈
+- GitHub Issues：https://github.com/HackerChi-Hub/CTT/issues
 
 ---
 

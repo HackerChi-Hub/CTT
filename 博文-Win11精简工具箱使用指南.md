@@ -102,7 +102,7 @@ Win11 精简工具箱是一个功能强大的 PowerShell 脚本工具，提供�
 1. **下载脚本**
    ```powershell
    # 从 GitHub 下载或克隆仓库
-   git clone <your-repo-url>
+   git clone https://github.com/HackerChi-Hub/CTT.git
    cd CTT
    ```
 
@@ -390,7 +390,7 @@ Win11 精简工具箱是一个功能完善、安全可靠的系统优化工具�
 
 ## 相关资源
 
-- 📦 GitHub 仓库：[你的仓库地址]
+- 📦 GitHub 仓库：https://github.com/HackerChi-Hub/CTT
 - 📖 完整文档：查看 README.md
 - 🌐 作者网站：hackerchi.top
 
